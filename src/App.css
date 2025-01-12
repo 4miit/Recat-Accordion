@@ -1,0 +1,15 @@
+.accord{
+  border: 2px solid black;
+  position :relative;
+  margin : 0.5rem 0;
+  padding : 0.5rem;
+}
+
+span{
+  cursor: pointer;
+   position: absolute;
+   right: 2rem;
+}
+h1{
+  text-align: center;
+}
